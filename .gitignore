@@ -2,6 +2,10 @@
 # Based on by https://www.gitignore.io/api/macos,maven,gradle,eclipse,netbeans,intellij+iml,visualstudiocode
 target
 db
+.classpath
+.project
+.idea
+.vscode
 
 ### Vert.x ###
 .vertx/
