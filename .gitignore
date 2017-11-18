@@ -6,6 +6,7 @@ db
 .project
 .idea
 .vscode
+src/main/generated
 
 ### Vert.x ###
 .vertx/
